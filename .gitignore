@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+*.json
+readme.md
+*.txt
+.env/
+=======
+.env/
+db/
+__pycache__/
+application_key.json
+ai-data.json
+*.json
+readme.md
+*_solution.py
+>>>>>>> desktop_branch
